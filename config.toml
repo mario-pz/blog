@@ -1,8 +1,8 @@
 baseURL = "https://mario-pz.github.io/blog/"
 theme = "nostyleplease"
-title = "Hello friend."
-author = "Marios"
-copyright = "© 2023 Marios Papazogloy"
+title = "hello friend."
+author = "marios"
+copyright = "© 2023 marios papazogloy"
 paginate = 3
 languageCode = "en"
 DefaultContentLanguage = "en"
