@@ -14,7 +14,6 @@ author = "Marios Papazogloy"
 
 ## Certifications
 
-- English
 - [Microsoft AZ-900](https://www.credly.com/badges/abbee602-3da3-4745-975d-2bec80fe12ed/public_url)
 - More to come!
 
