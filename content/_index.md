@@ -1,5 +1,2 @@
----
+# DevOps Engineer, Computer Engineering Academic, FOSS Virtuoso, meme collector.
 
-DevOps Engineer, Computer Engineering Academic, FOSS Virtuoso, meme collector.
-
----
