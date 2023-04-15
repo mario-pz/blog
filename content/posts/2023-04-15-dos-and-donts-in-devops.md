@@ -9,7 +9,7 @@ tags:
   - "DevOps"
 ---
 
-# Do:
+# Do
 
 - Foster a culture of collaboration: Encourage communication and collaboration among development, operations, and other teams to build trust and streamline workflows.
 
@@ -25,7 +25,7 @@ tags:
 
 - Learn from failures: Encourage a blameless post-mortem culture and use incidents to learn, improve processes, and avoid future mistakes.
 
-# Don't:
+# Don't
 
 - Ignore the human aspect: DevOps is not only about tools and automation; it's also about fostering a culture of collaboration and continuous improvement.
 
