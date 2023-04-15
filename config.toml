@@ -1,6 +1,6 @@
 baseURL = "https://mario-pz.github.io/blog/"
 theme = "nostyleplease"
-title = "DevOps"
+title = "My Blog"
 author = "Marios"
 copyright = "© 2023 Marios Papazogloy"
 paginate = 3
