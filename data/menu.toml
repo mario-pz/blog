@@ -2,37 +2,37 @@
 title = "info"
 
   [[entries.entries]]
-  title = "DevOps Engineer"
+  title = "dev ops engineer"
   
   [[entries.entries]]
-  title = "Computer Engineering Academic"
+  title = "computer engineering academic"
   
   [[entries.entries]]
-  title = "FOSS Virtuoso"
+  title = "foss virtuoso"
   
   [[entries.entries]]
   title = "meme collector"
 
   [[entries.entries]]
-  title = "About me"
+  title = "about me"
   url = "about"
 
 [[entries]]
-title = "Platforms"
+title = "platforms"
   [[entries.entries]]
-  title = "Github"
+  title = "github"
   url = "https://github.com/mario-pz"
 
   [[entries.entries]]
-  title = "LinkedIn"
+  title = "linked in"
   url = "https://www.linkedin.com/in/marios-papazogloy-719b4121a/"
 
   [[entries.entries]]
-  title = "HackTheBox"
+  title = "hack the box"
   url = "https://app.hackthebox.com/profile/1104977"
 
   [[entries.entries]]
-  title = "TryHackMe"
+  title = "try hack me"
   url = "https://tryhackme.com/p/fooltedious66"
 
 [[entries]]
@@ -43,17 +43,3 @@ title = "posts by category"
   show_more = true
   show_more_text = "See more posts..."
   show_more_url = "posts"
-
-
-# [[entries]]
-# title = "another list"
-
-#   [[entries.entries]]
-#  title = "with subitems"
-
-#j    [[entries.entries.entries]]
-#    title = "with subsubitems"
-
-#    [[entries.entries.entries]]
-#    title = "example page"
-#    url = "about"
