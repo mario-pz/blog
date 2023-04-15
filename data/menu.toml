@@ -11,6 +11,10 @@ title = "info"
   [[entries.entries]]
   title = "My LinkedIn"
   url = "https://www.linkedin.com/in/marios-papazogloy-719b4121a/"
+  
+  [[entries.entries]]
+  title = "My Portofolio"
+  url = "portofolio"
 
 [[entries]]
 title = "all posts"
