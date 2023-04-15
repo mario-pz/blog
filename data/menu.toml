@@ -2,8 +2,23 @@
 title = "info"
 
   [[entries.entries]]
-  title = "welcome to my (nearly) no-CSS, fast, minimalist blog site"
+  title = "DevOps Engineer"
+  
+  [[entries.entries]]
+  title = "Computer Engineering Academic"
+  
+  [[entries.entries]]
+  title = "FOSS Virtuoso"
+  
+  [[entries.entries]]
+  title = "meme collector"
 
+  [[entries.entries]]
+  title = "About me"
+  url = "about"
+
+[[entries]]
+title = "Platforms"
   [[entries.entries]]
   title = "Github"
   url = "https://github.com/mario-pz"
@@ -21,15 +36,6 @@ title = "info"
   url = "https://tryhackme.com/p/fooltedious66"
 
 [[entries]]
-title = "all posts"
-
-  [entries.post_list]
-  limit = 5
-  show_more = true
-  show_more_text = "See archive..."
-  show_more_url = "posts"
-
-[[entries]]
 title = "posts by category"
 
   [entries.post_list]
@@ -39,15 +45,15 @@ title = "posts by category"
   show_more_url = "posts"
 
 
-[[entries]]
-title = "another list"
+# [[entries]]
+# title = "another list"
 
-  [[entries.entries]]
-  title = "with subitems"
+#   [[entries.entries]]
+#  title = "with subitems"
 
-    [[entries.entries.entries]]
-    title = "with subsubitems"
+#j    [[entries.entries.entries]]
+#    title = "with subsubitems"
 
-    [[entries.entries.entries]]
-    title = "example page"
-    url = "about"
+#    [[entries.entries.entries]]
+#    title = "example page"
+#    url = "about"
