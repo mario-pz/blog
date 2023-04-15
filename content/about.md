@@ -26,6 +26,9 @@ author = "Marios Papazogloy"
 
 ## Skills
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mario-pz&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mario-pz&show_icons=true&theme=tokyonight)
+
 - Git
 - Vim
 - Agile
@@ -53,5 +56,4 @@ author = "Marios Papazogloy"
 - Prometheus + Grafana
 
 ## Contact  
- 
-- <papazoglo59@gmail.com>
+- <papazogloy59@gmail.com>

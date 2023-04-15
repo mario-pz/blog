@@ -5,16 +5,20 @@ title = "info"
   title = "welcome to my (nearly) no-CSS, fast, minimalist blog site"
 
   [[entries.entries]]
-  title = "My Github"
+  title = "Github"
   url = "https://github.com/mario-pz"
 
   [[entries.entries]]
-  title = "My LinkedIn"
+  title = "LinkedIn"
   url = "https://www.linkedin.com/in/marios-papazogloy-719b4121a/"
-  
+
   [[entries.entries]]
-  title = "My Portofolio"
-  url = "portofolio"
+  title = "HackTheBox"
+  url = "https://app.hackthebox.com/profile/1104977"
+
+  [[entries.entries]]
+  title = "TryHackMe"
+  url = "https://tryhackme.com/p/fooltedious66"
 
 [[entries]]
 title = "all posts"
@@ -34,9 +38,6 @@ title = "posts by category"
   show_more_text = "See more posts..."
   show_more_url = "posts"
 
-[[entries]]
-title = "rss"
-url = "index.xml"
 
 [[entries]]
 title = "another list"
