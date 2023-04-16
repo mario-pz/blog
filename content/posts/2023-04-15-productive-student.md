@@ -36,9 +36,8 @@ consider factors such as:
 by analyzing your situation, you will be better equipped to develop a strategy tailored to your needs and circumstances.
 
 # integrating swot analysis with kanban for personal growth
-swot stands for strengths, weaknesses, opportunities, and threats. identifying these factors enables you to create a comprehensive plan that addresses potential 
-challenges and leverages your strengths to achieve your goals. gather the feedback you received and the insights you discovered on your own, and then create a swot board using an app like 
-[excalidraw](https://excalidraw.com/).
+swot stands for strengths, weaknesses, opportunities, and threats.identify and apply these factors in a app like
+[excalidraw](https://excalidraw.com/) and create a comprehensive plan that addresses potential challenges and leverages your strengths to achieve your goals. 
 
 [![swot](https://img.youtube.com/vi/xfb0g_jdids/0.jpg)](https://www.youtube.com/watch?v=xfb0g_jdids&t=29s)
 _a scene from silicon valley series (click on it to see the video)_
@@ -49,8 +48,8 @@ _a scene from silicon valley series (click on it to see the video)_
 * flexible adaptation: as you learn and grow, you can adjust your kanban board to reflect your evolving goals and priorities, enabling you to continuously improve.
 * limit work in progress: kanban encourages limiting the number of tasks you work on at once, which reduces multitasking and increases productivity.
 * continuous improvement: by regularly reviewing your personal kanban board and reflecting on your progress, you can identify areas of improvement and work on enhancing your skills and habits.
+[![kanban](https://4.bp.blogspot.com/-DSJ9xFBTMNs/VgP5l4B8QNI/AAAAAAAAigY/TXKJHJsr3Bs/s1600/Jared%2B-%2BSWOT.png)](https://www.youtube.com/watch?v=oyVksFviJVE&t=60s)
 
-[![kanban](https://i.ytimg.com/vi/By3dmsag5sI/maxresdefault.jpg)](https://www.youtube.com/watch?v=oyVksFviJVE&t=60s)
 _another scene from silicon valley series, though its showcasing scrum. just pay attention to the board.
 (click on it to see the video)_
 
