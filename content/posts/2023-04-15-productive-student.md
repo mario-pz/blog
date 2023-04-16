@@ -39,7 +39,9 @@ by analyzing your situation, you will be better equipped to develop a strategy t
 swot stands for strengths, weaknesses, opportunities, and threats.identify and apply these factors in a app like
 [excalidraw](https://excalidraw.com/) and create a comprehensive plan that addresses potential challenges and leverages your strengths to achieve your goals. 
 
-[![swot](https://img.youtube.com/vi/xfb0g_jdids/0.jpg)](https://www.youtube.com/watch?v=xfb0g_jdids&t=29s)
+[![swot](https://4.bp.blogspot.com/-DSJ9xFBTMNs/VgP5l4B8QNI/AAAAAAAAigY/TXKJHJsr3Bs/s1600/Jared%2B-%2BSWOT.png
+)](https://www.youtube.com/watch?v=xfb0g_jdids&t=29s)
+
 _a scene from silicon valley series (click on it to see the video)_
 
 # how to apply kanban for personal growth
@@ -48,8 +50,7 @@ _a scene from silicon valley series (click on it to see the video)_
 * flexible adaptation: as you learn and grow, you can adjust your kanban board to reflect your evolving goals and priorities, enabling you to continuously improve.
 * limit work in progress: kanban encourages limiting the number of tasks you work on at once, which reduces multitasking and increases productivity.
 * continuous improvement: by regularly reviewing your personal kanban board and reflecting on your progress, you can identify areas of improvement and work on enhancing your skills and habits.
-[![kanban](https://4.bp.blogspot.com/-DSJ9xFBTMNs/VgP5l4B8QNI/AAAAAAAAigY/TXKJHJsr3Bs/s1600/Jared%2B-%2BSWOT.png)](https://www.youtube.com/watch?v=oyVksFviJVE&t=60s)
-
+[![kanban](https://i.ytimg.com/vi/By3dmsag5sI/maxresdefault.jpg)](https://www.youtube.com/watch?v=oyVksFviJVE&t=60s)
 _another scene from silicon valley series, though its showcasing scrum. just pay attention to the board.
 (click on it to see the video)_
 
@@ -82,11 +83,9 @@ _you may have headaches and lack of energy on the first 2 weeks, but then caffei
 
 by implementing an automated workflow, you'll free up valuable time and mental energy, allowing you to focus on high-priority tasks and creative problem-solving. invest in automation tools or learn scripting languages to make your workflow as seamless as possible, ultimately boosting your overall performance and effectiveness
 
-
 # neovim 
 
 when it comes to writing tasks, time is precious, and in today's fast-paced world, no other text editor can match its productivity and efficiency. this unparalleled editor revolutionizes the way you work, utilizing the power of modal editing and versatile motions to catapult your writing prowess to new heights. through consistent practice, you'll become a maestro, seamlessly conquering tasks and navigating your workflow with exceptional ease and finesse. 
-
 
 ![pepe hecker](https://i.imgur.com/zabyPE5h.jpg)
 
