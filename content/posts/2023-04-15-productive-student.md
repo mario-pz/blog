@@ -75,7 +75,8 @@ caffeine has its benefits but for the most people its only an addiction that dis
 
 consider starting your day with a cold bath and then jumping rope instead of a sugary 5$ soy latte, not only your mind will be fully awake but your body as well.
 
-_you may have headaches and lack of energy on the first 2 weeks, but then caffeine won't affect you any more_
+_you may experience headaches and a lack of energy during the first two weeks, but after that, your body may become accustomed to caffeine and it may no longer have an effect on you._
+
 
 ![soy latte](https://i.kym-cdn.com/photos/images/original/002/159/767/af7.jpg)
 
