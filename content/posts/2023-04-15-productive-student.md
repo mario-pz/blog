@@ -13,13 +13,13 @@ this blog are gathered facts ordered in my way for people with low or lack of pr
 it may not be that unique topic, but it has proven to help on myself and the people i gave it to.
 
 # some things before we start
-* avoid overwhelming yourself by trying to do everything at once. embrace gradual change for sustainable progress. 
+* avoid overwhelming yourself by trying everything at once. embrace gradual change for sustainable progress. 
 
-* refrain from micromanaging, as it is an inefficient use of time and can negatively impact relationships and productivity
+* refrain from micromanaging, as it is an inefficient use of time
 
-* distance yourself from individuals who discourage your progress or bring negativity to your journey.
+* distance yourself from individuals who discourage your progress
 
-* focus not only on your own development but also on supporting and inspiring others in their pursuit of wisdom and virtue.
+* focus not only in yourself but support and inspire others to pursuit wisdom and virtue
 
 ![pepe friend](https://i.pinimg.com/originals/c1/34/ed/c134ed78b89826720efc6005abce405a.jpg)
 
