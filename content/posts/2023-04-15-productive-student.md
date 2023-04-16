@@ -58,7 +58,7 @@ by incorporating your swot analysis insights into your kanban board, you can cre
 
 # meditate, meditate, meditate
 
-its super effective because it helps cultivate mindfulness, focus, and emotional well-being. by training the mind to be present and aware, meditation improves concentration, allowing for better task engagement and reduced distraction. additionally, it can reduce stress and anxiety, which in turn boosts overall mood and cognitive functioning. for start, do 30 minutes.
+it helps cultivate mindfulness, focus, and emotional well-being. by training the mind to be present and aware, meditation improves concentration, allowing for better task engagement and reduced distraction. additionally, it can reduce stress and anxiety, which in turn boosts overall mood and cognitive functioning. for start, do 30 minutes.
 
 ![pepe meditating](https://www.actitime.com/wp-content/uploads/2020/08/pepe-01-scaled.jpg)
 
@@ -66,7 +66,7 @@ its super effective because it helps cultivate mindfulness, focus, and emotional
 
 don't allow these digital leeches to feast on your attention and productivity. 
 keep social media usage strictly need-based, such as reading important announcements or connecting with like-minded individuals on niche forums.
-say no to pointless chitchat, attention-seeking behaviors, and toxic environments that only drain your mental energy and strain your eyes.
+say no to pointless chitchat, attention-seeking snowflakes, and toxic environments that only drain your mental energy and strain your eyes.
 
 ![pepe closing cringe news](https://i.kym-cdn.com/photos/images/original/002/306/091/9cf.jpg)
 
@@ -82,11 +82,11 @@ _you may experience headaches and a lack of energy during the first two weeks, b
 
 # identify and automate possible processes
 
-by implementing an automated workflow, you'll free up valuable time and mental energy, allowing you to focus on high-priority tasks and creative problem-solving. invest in automation tools or learn scripting languages to make your workflow as seamless as possible, ultimately boosting your overall performance and effectiveness
+you'll free up valuable time and mental energy, allowing you to focus on high-priority tasks and creative problem-solving. invest in automation tools or learn scripting languages to make your workflow as seamless as possible, ultimately boosting your overall performance and effectiveness
 
 # neovim 
 
-when it comes to writing tasks, time is precious, and in today's fast-paced world, no other text editor can match its productivity and efficiency. this unparalleled editor revolutionizes the way you work, utilizing the power of modal editing and versatile motions to catapult your writing prowess to new heights. through consistent practice, you'll become a maestro, seamlessly conquering tasks and navigating your workflow with exceptional ease and finesse. 
+time is precious when it comes to writing, and in today's fast-paced world, no other text editor can match its productivity and efficiency. this unparalleled editor revolutionizes the way you work, utilizing the power of modal editing and versatile motions to catapult your writing prowess to new heights. through consistent practice, you'll become a maestro, seamlessly conquering tasks and navigating your workflow with exceptional ease and finesse. 
 
 ![pepe hecker](https://i.imgur.com/zabyPE5h.jpg)
 
