@@ -16,7 +16,7 @@ dependabot is a github tool that automates the process of updating dependencies 
 
 it can update dependencies for a wide range of package managers, mine include:
 
-```yaml
+```
 rust: cargo
 go: gomod
 python: pip
@@ -34,7 +34,7 @@ dependabot uses a set of default update strategies for each package manager it s
 * how to apply dependabot to your repository
 * make a `.github/workflows/dependabot.yaml` and add the below yaml
 
-```yaml
+```
 version: 2
 updates:
   - package-ecosystem: "package-manager-name"
@@ -59,6 +59,6 @@ in the "security" section of the sidebar, click code security and analysis, enab
 
 # when do we upgrade
 
-taking to account that your main branch is on a working state, making a new branch and testing dependabot's pr should probably be enough.
+taking to account that your main branch is on a working state, merge dependabot's pr on a testing branch.
 
 
