@@ -1,6 +1,6 @@
 ---
 title: "dependabot: code analysis and dependency management"
-date: 2023-04-15
+date: 2023-06-05
 draft: false
 categories:
   - "devops"
@@ -52,7 +52,7 @@ note: avoid daily interval unless it’s absolutely necessary
 on github.com, navigate to the main page of the repository. under your repository name, click
 settings. 
 
-image::https://docs.github.com/assets/cb-28266/mw-1440/images/help/repository/repo-actions-settings.webp[]
+![github](https://docs.github.com/assets/cb-28266/mw-1440/images/help/repository/repo-actions-settings.webp)
 
 if you cannot see the "settings" tab, select the dropdown menu, then click settings.
 in the "security" section of the sidebar, click code security and analysis, enable dependancy graph, and after that enable what you wish to use. 
