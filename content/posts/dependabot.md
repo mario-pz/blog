@@ -43,7 +43,7 @@ updates:
       interval: "weekly"
 ```
 
-in this example we put dependabot to search in the root of the repo for dependencies once every week.
+in this example we tell dependabot to search in the root of the repo once every week.
 note: avoid daily interval unless it’s absolutely necessary
 
 
