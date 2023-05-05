@@ -9,6 +9,8 @@ tags:
   - "devops"
 ---
 
+image::https://media.discordapp.net/attachments/1104034184357494886/1104034205089923092/image.png[]
+
 # what is dependabot?  
 
 dependabot is a github tool that automates the process of updating dependencies in your code base. it analyzes your project's dependencies and alerts when it finds new versions available.
