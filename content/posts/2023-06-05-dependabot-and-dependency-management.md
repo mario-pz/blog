@@ -9,7 +9,7 @@ tags:
   - "devops"
 ---
 
-image::https://media.discordapp.net/attachments/1104034184357494886/1104034205089923092/image.png[]
+![ill be back](https://media.discordapp.net/attachments/1104034184357494886/1104034205089923092/image.png)
 
 # what is dependabot?  
 
@@ -17,13 +17,12 @@ dependabot is a github tool that automates the process of updating dependencies 
 
 it can update dependencies for a wide range of package managers, mine include:
 
-[source, yaml]
-----
+```yaml
 rust: cargo
 go: gomod
 python: pip
 svelte: npm
-----
+```
 
 # how does dependabot work?
 
@@ -36,15 +35,14 @@ dependabot uses a set of default update strategies for each package manager it s
 * how to apply dependabot to your repository
 * make a `.github/workflows/dependabot.yaml` and add the below yaml
 
-[source, yaml]
-----
+```yaml
 version: 2
 updates:
   - package-ecosystem: "package-manager-name"
     directory: "/"
     schedule:
       interval: "weekly"
-----
+```
 
 in this example we put dependabot to search in the root of the repo for dependencies once every week.
 note: avoid daily interval unless it’s absolutely necessary
