@@ -31,7 +31,7 @@ in a repeating pattern to simulate a real traffic light.
 
 ![datagram](https://media.discordapp.net/attachments/1104034184357494886/1104296506590253066/Screenshot_from_2023-05-06_09-32-51.png)
 
-gpios are basically switches so it should be ok ¯\_(ツ)_/¯
+gpios are basically switches so it should be fine ¯\_(ツ)_/¯
 
 # calculations 
 
@@ -47,7 +47,7 @@ resistance (r) = (supply voltage - led forward voltage) / led forward current
 
 # code
 
-i choose to use gp0,gp1,gp2 as my pins, you can easily change it by changing the number.
+i choose to use gp0, gp1, and gp2 as my pins. you can easily change these pins by modifying the numbers
 
 ```py
 # code.py
@@ -84,6 +84,8 @@ def main():
 main()
 
 ```
+
+and voila. just like that i made my first circuit project.
 
 # references 
 
