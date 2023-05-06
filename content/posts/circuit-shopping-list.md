@@ -69,7 +69,7 @@ always, take to account. the more you solder the better you will become, so don'
 * soldering station (includes a wired sponge) https://grobotronics.com/zd-10w.html (€9.90)
 * sponge https://grobotronics.com/soldering-sponge-51x36mm.html (€0.4000)
 * lead free https://grobotronics.com/cynel-100g-0.5mm-lead-free.html (€9.90)
-* flux (will be added in the future)
+* flux https://nettop.gr/index.php/eksartimata/ergalia/kolitiria/50g-welding-soldering-flux-paste.html 
 
 ### breakdown of the cost 
 
