@@ -32,13 +32,13 @@ its best practise to implement the circuit on a realistic simulator and then rep
 
 pico is great starting point if you don't have any preference pick either.
 
-* https://grobotronics.com/raspberry-pi-pico.html(€5.80)
+* https://grobotronics.com/raspberry-pi-pico.html (€5.80)
 * https://grobotronics.com/raspberry-pi-pico-h-with-headers.html (€7.90)
 * https://grobotronics.com/raspberry-pi-pico-w-wireless.html (€9.00)
 
 ## breadboard 
 
-* https://grobotronics.com/breadboard-830-tie-point-classic.html(€4.20)
+* https://grobotronics.com/breadboard-830-tie-point-classic.html (€4.20)
 
 ![soldier](https://i.kym-cdn.com/photos/images/original/000/777/872/e6c.gif)
 
@@ -49,18 +49,23 @@ pico is great starting point if you don't have any preference pick either.
 
 ## leds 
 
-* https://grobotronics.com/led-lights-assorted-kit-3mm.html(€6.90)
+* https://grobotronics.com/led-lights-assorted-kit-3mm.html (€6.90)
 
 ## resistors
 
-* https://grobotronics.com/metal-resistor-assortment-kit-525pcs.html(€6.40)
+* https://grobotronics.com/metal-resistor-assortment-kit-525pcs.html (€6.40)
 
 ## soldering 
 
 ![pepe soldering](https://img-9gag-fun.9cache.com/photo/am5R1OV_460s.jpg)
 
-before you buy anything you must first watch ![how to take care of your soldering iron](https://youtu.be/JADI1N-K9Yc), 
-do not solder if you do not know how to take care of your soldering iron and do not worry if your soldering skills are no good, it will gradually get better with experience.
+### learn how to take care of your soldering iron first
+
+watch the video if you don't know how to take care of the tip, not doing so will result in a useless tip,
+
+* https://youtu.be/JADI1N-K9Yc
+
+always, take to account. the more you solder the better you will become, so don't worry if your soldering is unwatchable
 
 * soldering iron https://grobotronics.com/zd-35n-30w.html (€9.90)
 * soldering station (includes a wired sponge) https://grobotronics.com/zd-10w.html (€9.90)
