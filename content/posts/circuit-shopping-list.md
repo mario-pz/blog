@@ -61,8 +61,6 @@ pico is great starting point if you don't have any preference pick either.
 
 ### learn how to take care of your soldering iron first
 
-watch the video if you don't know how to take care of the tip, not doing so will result in a useless tip,
-
 * https://youtu.be/JADI1N-K9Yc
 
 always, take to account. the more you solder the better you will become, so don't worry if your soldering is unwatchable
@@ -91,6 +89,6 @@ please note that these prices may be subject to change and do not include shippi
 # what can you build 
 
 make a led blink, make a traffic light like i did, a rc car? a keyboard? that's up to you. 
-google what components they need, start building.
+google what components they need and start building.
 
 ![engineer](https://steamuserimages-a.akamaihd.net/ugc/969850176820373705/586271AFA04C66F310A52B20157552652794EA67/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
