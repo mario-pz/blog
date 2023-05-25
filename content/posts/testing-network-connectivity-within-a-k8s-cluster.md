@@ -1,7 +1,7 @@
 ---
 title: "testing network connectivity within a k8s cluster"
-date: 2023-06-05
 draft: false
+date: 2023-04-15
 categories:
   - "devops"
 tags:
